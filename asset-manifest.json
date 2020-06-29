@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Estoque-goodwill-electronics/static/css/main.0c8f6a87.chunk.css",
+    "main.js": "/Estoque-goodwill-electronics/static/js/main.bb08e9be.chunk.js",
+    "main.js.map": "/Estoque-goodwill-electronics/static/js/main.bb08e9be.chunk.js.map",
+    "runtime-main.js": "/Estoque-goodwill-electronics/static/js/runtime-main.2c376d6b.js",
+    "runtime-main.js.map": "/Estoque-goodwill-electronics/static/js/runtime-main.2c376d6b.js.map",
+    "static/js/2.8b30512c.chunk.js": "/Estoque-goodwill-electronics/static/js/2.8b30512c.chunk.js",
+    "static/js/2.8b30512c.chunk.js.map": "/Estoque-goodwill-electronics/static/js/2.8b30512c.chunk.js.map",
+    "index.html": "/Estoque-goodwill-electronics/index.html",
+    "precache-manifest.44cd6b4bcdc2c8415e4c11979533b4e3.js": "/Estoque-goodwill-electronics/precache-manifest.44cd6b4bcdc2c8415e4c11979533b4e3.js",
+    "service-worker.js": "/Estoque-goodwill-electronics/service-worker.js",
+    "static/css/main.0c8f6a87.chunk.css.map": "/Estoque-goodwill-electronics/static/css/main.0c8f6a87.chunk.css.map",
+    "static/js/2.8b30512c.chunk.js.LICENSE.txt": "/Estoque-goodwill-electronics/static/js/2.8b30512c.chunk.js.LICENSE.txt",
+    "static/media/logo-empresa.png": "/Estoque-goodwill-electronics/static/media/logo-empresa.2e85e050.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c376d6b.js",
+    "static/js/2.8b30512c.chunk.js",
+    "static/css/main.0c8f6a87.chunk.css",
+    "static/js/main.bb08e9be.chunk.js"
+  ]
+}
