@@ -1,0 +1,10 @@
+.Header {
+    background-color: #F6F7F9;
+    text-align: center;
+    margin-bottom: 40px;
+    height: 150px;
+}
+
+.Header img {
+    width: 400px;
+}

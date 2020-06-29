@@ -1,0 +1,45 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: none;
+    text-align: left;
+    padding: 8px;
+    text-align: center;
+}
+
+th, td {
+    border-bottom: 1px solid #ddd;
+  }
+
+tr:hover {
+    background-color: #ececec;
+}
+
+.tabelaProdutos {
+    display: flex;
+    flex-direction: column;
+    margin: 90px auto;
+    width: 900px;
+    text-align: center;
+}
+
+.Editar {
+    color: #00b116
+}
+
+.Excluir {
+    color: #de0505;
+    
+}
+
+.fas{
+    display: table-cell!important; 
+}
+
+.bgErro {
+    background-color: #ff0000eb;
+    border: #ff0000eb!important;
+}

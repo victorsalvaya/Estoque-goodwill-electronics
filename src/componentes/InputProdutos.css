@@ -1,0 +1,38 @@
+.Dados {
+    display: flex;
+    flex-direction: column;
+
+    max-width: 500px;
+    margin: 0 auto;
+    
+}
+
+.inputStyle {
+    margin-bottom: 5px;
+    border: 2px solid #c5c5c5d1;
+    height: 17px;
+    padding: 9px;
+}
+
+.btnStyle {
+    width: 100px;
+    height: 30px;
+    font-size: 13px;
+    margin: 10px auto;
+    background-color: #FFF200;
+    border: 1px solid #FFF200;
+    border-radius: 30px;
+    color: #000;
+    font-weight: bold;
+}
+
+.Dados form {
+    display: flex;
+    flex-direction: column;
+}
+
+.btnEditar {
+    background-color: #00b116;
+    border: 1px solid #00b116;
+    color: #fff;
+}
